@@ -1,0 +1,170 @@
+*{
+   padding: 0%;
+   margin: 0%;
+}
+html,body{
+   height: 100%;
+   width: 100%;
+}
+
+#everything{
+    height: 100%;
+    width: 100%;
+    font-family: 'Gill Sans';
+}
+
+#header{
+    width: 100%;
+    height: 12%;
+    background-color:  hsl(228, 100%, 60%);
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color: hsl(228, 98%, 67%) ;
+}
+
+#symbol{
+    color: white;
+    background-color: hsl(228, 100%, 60%) ;
+    width: 20px;
+    margin-left: 25px;
+    font-size: xx-small;
+
+}
+
+#head{
+    width: 400px;
+    color: white;
+    font-size: smaller;
+}
+
+#menu{
+    color: white;
+    margin-left: 55%;
+}
+
+#main{
+    height: 76%;
+    width: 100%;
+    display: flex;
+}
+
+#bigcard{
+    color: white;
+    background-color: hsl(228, 100%, 60%) ;
+    height: 100%;
+    width: 50%;
+}
+
+#bigh1{
+    margin-top: 90px;
+    margin-left: 40px;
+    font-size:larger;
+}
+
+#bigp{
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+#cards{
+    background-color: hsl(228, 100%, 60%) ;
+    height: 100%;
+    width: 50%;
+    display: flex;
+}
+
+#cardg1{
+    height: 100%;
+    width: 50%;
+}
+
+#card1{
+    height: 50%;
+    width: 100%;
+    border-width: 1px;
+    box-sizing: border-box;
+    border-left: solid;
+    border-bottom: solid;
+    border-color: hsl(228, 98%, 67%);
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#symbol1{
+    color: white;
+    width: 40px;
+    height: 40px;
+    font-size: x-large;
+}
+
+#card1 #data{
+    width: 10px;
+    height: 10px;
+}
+
+#card1 #info{
+    width: 10px;
+    height: 10px;
+}
+
+#card3{
+    height: 50%;
+    width: 100%;
+    border-width: 1px;
+    box-sizing: border-box;
+    border-left: solid;
+    border-bottom: solid;
+    border-color: hsl(228, 98%, 67%);
+}
+
+#cardg2{
+    height: 100%;
+    width: 50%;
+}
+
+#card2{
+    height: 50%;
+    width: 100%;
+    border-width: 1px;
+    box-sizing: border-box;
+    border-left: solid;
+    border-bottom: solid;
+    border-color: hsl(228, 98%, 67%);
+}
+
+#card4{
+    height: 50%;
+    width: 100%;
+    border-width: 1px;
+    box-sizing: border-box;
+    border-left: solid;
+    border-bottom: solid;
+    border-color: hsl(228, 98%, 67%);
+}
+
+#footer{
+    color: white;
+    background-color: hsl(228, 100%, 60%);
+    height: 12%;
+    width: 100%;
+    box-sizing: border-box;
+    border-width: 6px;
+    border-top: solid;
+    border-color: hsl(228, 98%, 67%);
+    display: flex;
+    align-items: center;
+}
+
+#footp1{
+    margin-left: 25px;
+    font-size: smaller;
+}
+
+#footp2{
+    margin-left: 70%;
+    font-size: smaller;
+}
